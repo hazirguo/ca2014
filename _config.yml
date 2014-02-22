@@ -1,0 +1,7 @@
+url: http://hazirguo.github.io/ca2014
+baseurl: /ca2014
+
+#markdown: rdiscount
+permalink: /blog/:year:month:day/:title.html
+pygments: true
+exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
