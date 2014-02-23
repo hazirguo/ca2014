@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Computer Architecture Course Blog</title>
- <link href="http://hazirguo.github.com/Computer_Architecture/atom.xml" rel="self"/>
- <link href="http://hazirguo.github.com/Computer_Architecture/"/>
+ <link href="http://hazirguo.github.com/ca2014/blog/atom.xml" rel="self"/>
+ <link href="http://hazirguo.github.com/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://hazirguo.github.com/Computer_Architecture</id>
+ <id>http://hazirguo.github.com/ca2014/blog</id>
  <author>
    <name>Hazir Guo</name>
    <email>hazirguo@gmail.com</email>
