@@ -1,5 +1,8 @@
 url: http://hazirguo.github.io/ca2014
 baseurl: /ca2014
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 #markdown: rdiscount
 permalink: /blog/:year:month:day/:title.html
