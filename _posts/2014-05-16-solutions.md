@@ -12,6 +12,7 @@ title: 第二次习题课汇总
 期中考试后三题得分率非常低，都是考察关于存储层次部分的内容，这块知识点期末考试肯定也是重点，希望大家务必都理解：
 
 [题目的PPT](../../handouts/ca_middle_exam3.pptx)
+
 [参考答案](../../handouts/solution_exam3.pdf)
 
 
