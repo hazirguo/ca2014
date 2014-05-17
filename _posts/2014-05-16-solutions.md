@@ -21,3 +21,11 @@ title: 第二次习题课汇总
 [B1、B2、B4](../../handouts/solution_ex4_1.pdf)
 
 
+## CUDA 编程基础
+
+[简介](../../handouts/cuda.ppt)
+
+
+## 第五、六次作业部分答案
+
+[第五、六次作业答案](../../handouts/solution_ex56.ppt)
